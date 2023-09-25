@@ -1,3 +1,8 @@
+This fork of minimodem accepts input via stdin in addition to system sound input.
+Use the -O flag when launching, requires floating-point input.
+
+
+
 minimodem - general-purpose software audio FSK modem
 Copyright (C) 2011-2020 Kamal Mostafa <kamal@whence.com>
 
